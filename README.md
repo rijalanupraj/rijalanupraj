@@ -26,7 +26,7 @@
 <br/>
 
 - 🔭 I’m currently studying BSc. Computing
-- 🌱 I’m currently learning Flutter and Django
+- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with career path
 - 💬 Ask me about Productivity
 - 📫 How to reach me: [Twitter - @rijalanupraj](https://twitter.com/rijalanupraj)
