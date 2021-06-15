@@ -25,6 +25,8 @@
 <br/>
 <br/>
 
+
+
 - 🔭 I’m currently studying BSc. Computing
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with career path
@@ -32,3 +34,12 @@
 - 📫 How to reach me: [Twitter - @rijalanupraj](https://twitter.com/rijalanupraj)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to get productive and watch lots of productivity hacks.
+
+
+<br/>
+
+## GitHub Stats
+
+<img align="left" alt="Anup Raj Rijal's GitHub Stats" src="https://github-readme-stats-4ime9sc2s-rijalanupraj.vercel.app/api?username=rijalanupraj&show_icons=true&hide_border=true&theme=radical" />
+
+[![Top Langs](https://github-readme-stats-4ime9sc2s-rijalanupraj.vercel.app/api/top-langs/?username=rijalanupraj&layout=compact)](https://github.com/rijalanupraj)
