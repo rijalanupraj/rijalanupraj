@@ -27,7 +27,7 @@
 - 🔭 I’m currently studying BSc. Computing
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with career path
-- 💬 Ask me about Productivity
+- 💬 Ask me about .
 - 📫 How to reach me: [Twitter - @rijalanupraj](https://twitter.com/rijalanupraj)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to get productive and watch lots of productivity hacks.
