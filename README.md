@@ -30,7 +30,7 @@
 - 💬 Ask me about .
 - 📫 How to reach me: [Twitter - @rijalanupraj](https://twitter.com/rijalanupraj)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to get productive and watch lots of productivity hacks.
+- ⚡ Fun fact: .
 
 ### Languages and Tools:
 
