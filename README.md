@@ -7,7 +7,6 @@
 - 🔭 I’m currently studying BSc. Computing
 - 🌱 Intreseted in Backend Development
 - 📫 How to reach me: [Twitter - @rijalanupraj](https://twitter.com/rijalanupraj)
-- 😄 Pronouns: He/His
 - ⚡ Other Intereset: [Cryptocurrency, Football, Cricket]
 
 ### Languages and Tools:
