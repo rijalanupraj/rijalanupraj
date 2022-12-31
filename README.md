@@ -3,11 +3,9 @@
 ## I'm [Anup Raj Rijal!](https://www.rijalanupraj.com) 👋
 
 <br/>
-
+- I am currently working as ful stack developer Node.js & React.js
 - 🌱 Intreseted in Backend Development
 - 📫 How to reach me: [Twitter - @rijalanupraj](https://twitter.com/rijalanupraj)
-- ⚡ Other Intereset: [Cryptocurrency, Football, Cricket]
-
 ### Languages and Tools:
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="26px" />
