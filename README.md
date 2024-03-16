@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on cutting-edge digital learning and healthcare platforms at Digi Technology Nepal.<br><br>👯 I’m looking to collaborate on innovative web development projects and open-source contributions.<br><br>🤝 I’m looking for help with exploring new technologies and expanding my skillset.<br><br>🌱 I'm presently dedicating my time to furthering my expertise in specific aspects of Python, and JavaScript that intrigue me.<br><br>💬 Ask me about full-stack web development, software engineering, and building scalable solutions.<br><br>⚡ Fun fact: I find joy in diverse activities and hobbies when I'm not working.
+🔭 I’m currently working on cutting-edge digital learning and healthcare platforms at Digi Technology Nepal.<br><br>👯 I’m looking to collaborate on innovative web development projects and open-source contributions.<br><br>🤝 I’m looking for help with exploring new technologies and expanding my skillset.<br><br>🌱 I'm presently dedicating my time to furthering my expertise in specific aspects of Python, and JavaScript that intrigue me.<br><br>💬 Ask me about full-stack web development, software engineering, and building scalable solutions.<br><br>⚡ Fun fact: I love cricket and football, and chess.
 
 
 ## 🌐 Socials:
@@ -22,11 +22,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rijalanupraj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
- <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+ <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rijalanupraj&icon=0&color=6)](https://visitcount.itsvg.in)
-
+-->
 <!--
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rijalanupraj) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rijalanupraj) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rijalanupraj) 
