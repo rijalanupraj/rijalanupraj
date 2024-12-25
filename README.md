@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on cutting-edge digital learning and healthcare platforms at Digi Technology Nepal.<br><br>👯 I’m looking to collaborate on innovative web development projects and open-source contributions.<br><br>🤝 I’m looking for help with exploring new technologies and expanding my skillset.<br><br>🌱 I'm presently dedicating my time to furthering my expertise in specific aspects of Python, and JavaScript that intrigue me.<br><br>💬 Ask me about full-stack web development, software engineering, and building scalable solutions.<br><br>⚡ Fun fact: I love cricket and football, and chess.
+
+I am a dedicated Software Engineer at Maitri Holding Services, where I specialize in delivering robust, scalable web applications that focus on performance, reliability, and long-term success.
+<br><br>
+I bring a problem-solving mindset to every project, always striving to create solutions that not only meet immediate needs but also anticipate future challenges. My approach is rooted in attention to detail, efficiency, and a deep understanding of the importance of quality in software development.
+<br><br>
+I am committed to continuous improvement, both in my technical abilities and my approach to tackling complex projects. I thrive in environments that value collaboration, innovation, and pushing the boundaries of what’s possible.
+<br><br>
+I pride myself on being a proactive team player, focused on delivering impactful results that contribute to organizational success.
+
+<!-- I am a dedicated Software Engineer at Maitri Holding Services, where I specialize in developing robust, scalable web applications and building systems that prioritize performance and reliability.
+🔭 I’m currently working on cutting-edge digital learning and healthcare platforms at Digi Technology Nepal.<br><br>👯 I’m looking to collaborate on innovative web development projects and open-source contributions.<br><br>🤝 I’m looking for help with exploring new technologies and expanding my skillset.<br><br>🌱 I'm presently dedicating my time to furthering my expertise in specific aspects of Python, and JavaScript that intrigue me.<br><br>💬 Ask me about full-stack web development, software engineering, and building scalable solutions.<br><br>⚡ Fun fact: I love cricket and football, and chess. -->
 
 
 ## 🌐 Socials:
